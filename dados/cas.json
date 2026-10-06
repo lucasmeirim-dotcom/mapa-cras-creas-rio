@@ -1,0 +1,92 @@
+[
+ {
+  "n": 1,
+  "nome": "1ª CAS – Centro",
+  "end": "Rua Benedito Hipólito, 163 – 2º andar",
+  "cep": "20211-130",
+  "email": "cas1@prefeitura.rio",
+  "tel": "2151-5595 / 98482-3051",
+  "abr": "Benfica, Caju, Catumbi, Centro, Cidade Nova, Estácio, Gamboa, Lapa, Mangueira, Paquetá, Rio Comprido, Santa Teresa, Santo Cristo, São Cristóvão, Saúde, Vasco da Gama"
+ },
+ {
+  "n": 2,
+  "nome": "2ª CAS – Vila Isabel, Grande Tijuca e Zona Sul",
+  "end": "Rua Pinheiro Machado, 39 – Fundos – Laranjeiras",
+  "cep": "22231-090",
+  "email": "cas2@prefeitura.rio",
+  "tel": "",
+  "abr": "Alto da Boa Vista, Andaraí, Botafogo, Catete, Copacabana, Cosme Velho, Flamengo, Gávea, Glória, Grajaú, Horto, Humaitá, Ipanema, Jardim Botânico, Lagoa, Laranjeiras, Leblon, Leme, Maracanã, Praça da Bandeira, Rocinha, São Conrado, Tijuca, Urca, Vidigal e Vila Isabel"
+ },
+ {
+  "n": 3,
+  "nome": "3ª CAS – Engenho Novo",
+  "end": "Rua 24 de Maio, 931 fundos – Engenho Novo",
+  "cep": "20950-092",
+  "email": "cas3@prefeitura.rio",
+  "tel": "",
+  "abr": "Abolição, Água Santa, Cachambi, Del Castilho, Encantado, Engenho da Rainha, Engenho de Dentro, Engenho Novo, Higienópolis, Inhaúma (parte), Jacaré, Jacarezinho, Lins de Vasconcelos, Maria da Graça, Méier, Piedade, Pilares, Riachuelo, Rocha, Sampaio, São Francisco Xavier, Todos os Santos e Tomás Coelho (parte)"
+ },
+ {
+  "n": 4,
+  "nome": "4ª CAS – Bonsucesso",
+  "end": "Rua Professor Lacé, 57 – Ramos",
+  "cep": "21060-120",
+  "email": "cas4@prefeitura.rio",
+  "tel": "",
+  "abr": "Bancários, Bonsucesso, Brás de Pina, Cacuia, Cidade Universitária, Cocotá, Complexo do Alemão, Cordovil, Freguesia (Ilha do Governador), Galeão, Jardim América, Jardim Carioca, Jardim Guanabara, Manguinhos, Maré, Moneró, Olaria, Parada de Lucas, Pavuna (parte), Penha, Penha Circular, Pitangueiras, Portuguesa, Praia da Bandeira, Ramos, Ribeira, Tauá, Vigário Geral, Vila da Penha (parte) e Zumbi"
+ },
+ {
+  "n": 5,
+  "nome": "5ª CAS – Madureira",
+  "end": "Rua Carvalho de Souza, 274 / Sala 8 – Madureira",
+  "cep": "21350-180",
+  "email": "cas5@prefeitura.rio",
+  "tel": "",
+  "abr": "Bento Ribeiro, Campinho, Cascadura, Cavalcanti, Coelho Neto, Engenheiro Leal, Guadalupe, Honório Gurgel, Madureira, Marechal Hermes, Mariópolis (parte), Oswaldo Cruz, Parque Anchieta, Quintino Bocaiúva, Ricardo de Albuquerque, Rocha Miranda, Turiaçu e Vaz Lobo"
+ },
+ {
+  "n": 6,
+  "nome": "6ª CAS – Irajá",
+  "end": "Rua Capitão Aliatar Martins, 211 – Irajá",
+  "cep": "21235-515",
+  "email": "cas6@prefeitura.rio",
+  "tel": "",
+  "abr": "Acari, Anchieta (parte), Barros Filho, Colégio, Costa Barros, Irajá, Parque Colúmbia, Pavuna, Vicente de Carvalho, Vila da Penha, Vila Kosmos e Vista Alegre"
+ },
+ {
+  "n": 7,
+  "nome": "7ª CAS – Jacarepaguá",
+  "end": "Av. Ayrton Senna, 2001 BL C – Barra da Tijuca",
+  "cep": "22775-002",
+  "email": "cas7@prefeitura.rio",
+  "tel": "",
+  "abr": "Anil, Barra da Tijuca, Camorim, Cidade de Deus, Colônia, Curicica, Freguesia (Jacarepaguá), Gardênia Azul, Grumari, Itanhangá, Jacarepaguá, Joá, Pechincha, Praça Seca, Recreio dos Bandeirantes, Tanque, Taquara, Vargem Grande, Vargem Pequena, Vila Valqueire"
+ },
+ {
+  "n": 8,
+  "nome": "8ª CAS – Bangu",
+  "end": "Rua Santa Cecília, 984 / 2º andar – Bangu",
+  "cep": "21810-080",
+  "email": "cas8@prefeitura.rio",
+  "tel": "",
+  "abr": "Bangu, Campo dos Afonsos, Deodoro, Gericinó, Jabour, Jardim Sulacap, Magalhães Bastos, Padre Miguel, Realengo, Santíssimo (até ETERJ), Senador Camará e Vila Militar"
+ },
+ {
+  "n": 9,
+  "nome": "9ª CAS – Campo Grande",
+  "end": "Rua do Rádio, s/nº (Praça José Euzébio) – Campo Grande",
+  "cep": "23087-060",
+  "email": "cas9@prefeitura.rio",
+  "tel": "",
+  "abr": "Campo Grande, Cosmos, Inhoaíba, Santíssimo e Senador Vasconcelos"
+ },
+ {
+  "n": 10,
+  "nome": "10ª CAS – Santa Cruz",
+  "end": "Rua Fernanda, 155 – Santa Cruz",
+  "cep": "23515-121",
+  "email": "cas10@prefeitura.rio",
+  "tel": "",
+  "abr": "Barra de Guaratiba, Guaratiba, Ilha de Guaratiba, Paciência, Pedra de Guaratiba, Santa Cruz e Sepetiba"
+ }
+]

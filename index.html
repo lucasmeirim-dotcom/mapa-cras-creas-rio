@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>CRAS e CREAS do Rio</title>
+<meta name="description" content="Mapa dos CRAS e CREAS da cidade do Rio de Janeiro com endereço, e-mail, bairros atendidos e Street View. Projeto pessoal com dados públicos da SMAS-Rio.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700;800&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!--CORPO-->
+<header class="topo">
+  <h1>CRAS e CREAS do Rio <span>· onde fica a assistência social perto de você</span></h1>
+  <div class="autor">Projeto pessoal de Lucas Meirim, geógrafo · não é um site oficial da Prefeitura</div>
+</header>
+<div class="corpo">
+  <aside class="painel">
+    <div class="filtros">
+      <label class="campo" for="busca">Buscar por bairro ou nome da unidade
+        <input id="busca" type="search" placeholder="Ex.: Penha, Campo Grande, Nelson Mandela" autocomplete="off">
+      </label>
+      <div id="dica-bairro" aria-live="polite"></div>
+      <div class="tipos" role="group" aria-label="Tipo de unidade">
+        <label class="chk"><input id="f-cras" type="checkbox" checked> <span class="tag tag-cras">CRAS</span></label>
+        <label class="chk"><input id="f-creas" type="checkbox" checked> <span class="tag tag-creas">CREAS</span></label>
+      </div>
+      <label class="campo" for="f-cas">Coordenadoria (CAS)
+        <select id="f-cas"></select>
+      </label>
+      <div id="info-cas" hidden></div>
+      <div id="contagem"></div>
+    </div>
+    <ul id="lista" aria-label="Lista de unidades"></ul>
+    <div class="rodape">
+      Dados: <a href="https://assistenciasocial.prefeitura.rio/cras/" target="_blank" rel="noopener">CRAS</a> e
+      <a href="https://assistenciasocial.prefeitura.rio/creas/" target="_blank" rel="noopener">CREAS</a> no site da SMAS-Rio (atualizado em 15/07/2026).
+      Limites de bairros: Prefeitura do Rio (IPP). Posições dos pontos geocodificadas a partir do endereço; algumas são aproximadas.
+      Confirme o atendimento com a unidade antes de ir.
+    </div>
+  </aside>
+  <div class="mapa-wrap">
+    <div id="mapa" role="region" aria-label="Mapa das unidades"></div>
+    <div class="legenda" aria-hidden="true">
+      <div class="l"><span class="pin pin-cras"></span> CRAS – proteção básica</div>
+      <div class="l"><span class="pin pin-creas"></span> CREAS – proteção especial</div>
+      <div class="l" id="legenda-bairros" hidden><span class="area"></span> Bairros da CAS escolhida</div>
+    </div>
+    <section id="ficha" aria-live="polite"></section>
+  </div>
+</div>
+<!--/CORPO-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

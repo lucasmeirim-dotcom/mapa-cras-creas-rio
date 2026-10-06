@@ -74,6 +74,7 @@ a { color: var(--azul); }
 .legenda .pin-creas { transform: rotate(45deg) scale(.8); }
 .legenda .area { width: 16px; height: 12px; border: 1px solid var(--azul); background: rgba(0,192,244,.18); border-radius: 2px; }
 .tip-bairro { font-family: var(--fonte); }
+.fundo-osm { filter: grayscale(.85) brightness(1.06) contrast(.9); }
 
 /* ficha */
 #ficha { position: absolute; top: 12px; right: 12px; bottom: 12px; width: min(420px, calc(100% - 24px)); z-index: 1100; background: var(--papel); border-radius: 14px; box-shadow: 0 8px 30px rgba(0,30,60,.22); padding: 20px 22px 24px; overflow-y: auto; display: none; }

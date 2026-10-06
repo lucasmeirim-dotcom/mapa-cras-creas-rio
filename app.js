@@ -198,9 +198,9 @@
 
     mapa = L.map("mapa", { zoomControl: false, zoomSnap: 0.25 }).setView([-22.92, -43.45], 10);
     L.control.zoom({ position: "topleft" }).addTo(mapa);
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
-      maxZoom: 19, subdomains: "abcd",
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19, className: "fundo-osm",
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">colaboradores do OpenStreetMap</a>',
     }).addTo(mapa);
     try {
       const lim = await obter("dados/limite_municipio.geojson");

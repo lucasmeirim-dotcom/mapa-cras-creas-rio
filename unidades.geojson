@@ -1,0 +1,1592 @@
+{
+ "type": "FeatureCollection",
+ "name": "unidades_cras_creas_rio",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.22698,
+     -22.90883
+    ]
+   },
+   "properties": {
+    "id": "cras-0",
+    "tipo": "CRAS",
+    "nome": "CRAS Adalberto Ismael de Souza",
+    "cas": 1,
+    "cas_nome": "1ª CAS – Centro",
+    "endereco": "Av. Bartolomeu de Gusmão, 1100 (fundos) - São Cristóvão",
+    "referencia": "Dentro da Vila Olímpica da Mangueira – área 3, ao lado do Colégio Santa Mônica",
+    "email": "crasadalbertoismael@prefeitura.rio",
+    "abrangencia": "Benfica, Leopoldina, Mangueira e São Cristóvão (parte)",
+    "bairro": "São Cristóvão",
+    "precisao": "alta",
+    "metodo": "coordenada conferida pelo autor",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "confirmado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.203865,
+     -22.924941
+    ]
+   },
+   "properties": {
+    "id": "cras-1",
+    "tipo": "CRAS",
+    "nome": "CRAS Germinal Domingues",
+    "cas": 1,
+    "cas_nome": "1ª CAS – Centro",
+    "endereco": "R. Itapiru, 1443 - Rio Comprido",
+    "referencia": "",
+    "email": "crasgerminaldomingues@prefeitura.rio",
+    "abrangencia": "Catumbi, Cidade Nova, Estácio e Rio Comprido",
+    "bairro": "Rio Comprido",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.2183,
+     -22.90307
+    ]
+   },
+   "properties": {
+    "id": "cras-2",
+    "tipo": "CRAS",
+    "nome": "CRAS Deputado Luis Eduardo Magalhães",
+    "cas": 1,
+    "cas_nome": "1ª CAS – Centro",
+    "endereco": "R. Paraíso - Imperial de São Cristóvão",
+    "referencia": "Largo do Pedregulho – Favela Bairro",
+    "email": "crasdlem@prefeitura.rio",
+    "abrangencia": "Benfica, São Cristóvão (Rua São Luis Gonzaga – lado par – e Rua Bela) e Vasco da Gama",
+    "bairro": "São Cristóvão",
+    "precisao": "média",
+    "metodo": "posição pelo CEP, com precisão de quarteirão",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "informado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.215916,
+     -22.877965
+    ]
+   },
+   "properties": {
+    "id": "cras-3",
+    "tipo": "CRAS",
+    "nome": "CRAS XV de Maio",
+    "cas": 1,
+    "cas_nome": "1ª CAS – Centro",
+    "endereco": "R. Gen. Sampaio, 74 - Caju",
+    "referencia": "Ponto final do ônibus 906",
+    "email": "cras15demaio@prefeitura.rio",
+    "abrangencia": "Caju",
+    "bairro": "Caju",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.19617,
+     -22.89412
+    ]
+   },
+   "properties": {
+    "id": "cras-4",
+    "tipo": "CRAS",
+    "nome": "CRAS Dodô da Portela",
+    "cas": 1,
+    "cas_nome": "1ª CAS – Centro",
+    "endereco": "R. Rivadávia Corrêa, 188 - Gamboa",
+    "referencia": "Clínica da Família Nélio de Oliveira",
+    "email": "crasdododaportela@prefeitura.rio",
+    "abrangencia": "Centro (parte), Gamboa, Ilha de Paquetá, Santo Cristo e Saúde",
+    "bairro": "Gamboa",
+    "precisao": "média",
+    "metodo": "posição pelo CEP, com precisão de quarteirão",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "informado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.17988,
+     -22.90244
+    ]
+   },
+   "properties": {
+    "id": "cras-5",
+    "tipo": "CRAS",
+    "nome": "CRAS Professora Ismênia de Lima Martins",
+    "cas": 1,
+    "cas_nome": "1ª CAS – Centro",
+    "endereco": "R. da Alfândega, 114 - Centro",
+    "referencia": "Próximo às Casas Bahia",
+    "email": "crasismenialimamartins@prefeitura.rio",
+    "abrangencia": "Centro (Av. Presidente Vargas, lado ímpar), Lapa e Santa Teresa",
+    "bairro": "Centro",
+    "precisao": "média",
+    "metodo": "posição pelo CEP, com precisão de quarteirão",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "informado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.260096,
+     -22.930434
+    ]
+   },
+   "properties": {
+    "id": "cras-6",
+    "tipo": "CRAS",
+    "nome": "CRAS Presidente Itamar Franco",
+    "cas": 2,
+    "cas_nome": "2ª CAS – Vila Isabel, Grande Tijuca e Zona Sul",
+    "endereco": "R. Caçapava, 305 - Grajaú",
+    "referencia": "Bar da Dona Chica",
+    "email": "craspresidenteitamarfranco@prefeitura.rio",
+    "abrangencia": "Andaraí e Grajaú",
+    "bairro": "Grajaú",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.26357,
+     -22.916905
+    ]
+   },
+   "properties": {
+    "id": "cras-7",
+    "tipo": "CRAS",
+    "nome": "CRAS Rosani Cunha",
+    "cas": 2,
+    "cas_nome": "2ª CAS – Vila Isabel, Grande Tijuca e Zona Sul",
+    "endereco": "R. Visc. de Santa Isabel, 412 - Vila Isabel",
+    "referencia": "Lado esquerdo da Estrada Grajaú-Jacarepaguá, ao lado do jornal O Povo",
+    "email": "crasrosanicunha@prefeitura.rio",
+    "abrangencia": "Vila Isabel, Maracanã e Engenho Novo (parte)",
+    "bairro": "Vila Isabel",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.252647,
+     -22.993301
+    ]
+   },
+   "properties": {
+    "id": "cras-8",
+    "tipo": "CRAS",
+    "nome": "CRAS Rinaldo de Lamare",
+    "cas": 2,
+    "cas_nome": "2ª CAS – Vila Isabel, Grande Tijuca e Zona Sul",
+    "endereco": "Av. Niemeyer, 776 - Rocinha",
+    "referencia": "",
+    "email": "crasrinaldo@prefeitura.rio",
+    "abrangencia": "Gávea, Rocinha, São Conrado e Vidigal",
+    "bairro": "São Conrado",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.19087,
+     -22.95001
+    ]
+   },
+   "properties": {
+    "id": "cras-9",
+    "tipo": "CRAS",
+    "nome": "CRAS Padre Veloso",
+    "cas": 2,
+    "cas_nome": "2ª CAS – Vila Isabel, Grande Tijuca e Zona Sul",
+    "endereco": "R. São Clemente, 312 - Botafogo",
+    "referencia": "Clínica da Família Santa Marta",
+    "email": "craspadrevelloso@prefeitura.rio",
+    "abrangencia": "Botafogo, Catete, Cosme Velho, Flamengo, Glória, Humaitá, Lagoa (parte) e Laranjeiras",
+    "bairro": "Botafogo",
+    "precisao": "alta",
+    "metodo": "coordenada conferida pelo autor",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "confirmado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.232066,
+     -22.927061
+    ]
+   },
+   "properties": {
+    "id": "cras-10",
+    "tipo": "CRAS",
+    "nome": "CRAS Tijuca",
+    "cas": 2,
+    "cas_nome": "2ª CAS – Vila Isabel, Grande Tijuca e Zona Sul",
+    "endereco": "R. Guapiara, 43 - Tijuca",
+    "referencia": "Praça Saens Peña",
+    "email": "crastijuca.smas@prefeitura.rio",
+    "abrangencia": "Alto da Boa Vista, Praça da Bandeira e Tijuca",
+    "bairro": "Tijuca",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.196372,
+     -22.981601
+    ]
+   },
+   "properties": {
+    "id": "cras-11",
+    "tipo": "CRAS",
+    "nome": "CRAS Sebastião Teodoro Filho",
+    "cas": 2,
+    "cas_nome": "2ª CAS – Vila Isabel, Grande Tijuca e Zona Sul",
+    "endereco": "R. Saint Roman, 172 - Copacabana",
+    "referencia": "Clínica da Família",
+    "email": "crassebastiaoteodorofilho.smas@prefeitura.rio",
+    "abrangencia": "Copacabana, Ipanema, Leblon e Leme",
+    "bairro": "Copacabana",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.308953,
+     -22.878367
+    ]
+   },
+   "properties": {
+    "id": "cras-12",
+    "tipo": "CRAS",
+    "nome": "CRAS Maria da Luz dos Santos",
+    "cas": 3,
+    "cas_nome": "3ª CAS – Engenho Novo",
+    "endereco": "R. Ana Quintão, 380 - Piedade",
+    "referencia": "Clínica da Família Olga Pacheco",
+    "email": "crasmariadaluzdossantos@prefeitura.rio",
+    "abrangencia": "Abolição (parte), Engenho da Rainha, Engenho de Dentro, Inhaúma, Piedade (parte), Pilares, Tomás Coelho",
+    "bairro": "Piedade",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.297928,
+     -22.898955
+    ]
+   },
+   "properties": {
+    "id": "cras-13",
+    "tipo": "CRAS",
+    "nome": "CRAS Sobral Pinto",
+    "cas": 3,
+    "cas_nome": "3ª CAS – Engenho Novo",
+    "endereco": "R. Pernambuco, 484 - Engenho de Dentro",
+    "referencia": "Praça Rio Grande do Norte",
+    "email": "crassobralpinto@prefeitura.rio",
+    "abrangencia": "Abolição (parte), Água Santa, Cachambi (parte), Del Castilho (parte), Encantado, Engenho de Dentro (exceto o lado par da Av. Dom Hélder Câmara e a Comunidade Fernão Cardim), Maria da Graça, Méier (exceto comunidade Boca do Mato), Piedade (parte), Pilares (parte) e Todos os Santos",
+    "bairro": "Engenho de Dentro",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.254634,
+     -22.894714
+    ]
+   },
+   "properties": {
+    "id": "cras-14",
+    "tipo": "CRAS",
+    "nome": "CRAS Caio Fernando Abreu",
+    "cas": 3,
+    "cas_nome": "3ª CAS – Engenho Novo",
+    "endereco": "Rua Lino Teixeira, 112 - Rocha",
+    "referencia": "",
+    "email": "crascaiofernandoabreu@prefeitura.rio",
+    "abrangencia": "Cachambi (parte), Del Castilho (parte), Higienópolis, Jacaré, Jacarezinho e Maria da Graça (parte)",
+    "bairro": "Rocha",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.278345,
+     -22.909319
+    ]
+   },
+   "properties": {
+    "id": "cras-15",
+    "tipo": "CRAS",
+    "nome": "CRAS Mary Richmond",
+    "cas": 3,
+    "cas_nome": "3ª CAS – Engenho Novo",
+    "endereco": "R. Conselheiro Ferraz, 54 - Lins de Vasconcelos",
+    "referencia": "Esquina com Rua Vinte de Março",
+    "email": "crasmaryrichmond@prefeitura.rio",
+    "abrangencia": "Engenho Novo, Lins de Vasconcelos, Riachuelo, Rocha, São Francisco Xavier (parte) e Sampaio",
+    "bairro": "Lins de Vasconcelos",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.248558,
+     -22.85721
+    ]
+   },
+   "properties": {
+    "id": "cras-16",
+    "tipo": "CRAS",
+    "nome": "CRAS Nelson Mandela",
+    "cas": 4,
+    "cas_nome": "4ª CAS – Bonsucesso",
+    "endereco": "R. da Regeneração, 654 - Bonsucesso",
+    "referencia": "Passarela 9 da Av. Brasil",
+    "email": "crasnelsonmandela.smas@prefeitura.rio",
+    "abrangencia": "Complexo da Maré, Bonsucesso e parte de Ramos",
+    "bairro": "Bonsucesso",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.32841,
+     -22.81114
+    ]
+   },
+   "properties": {
+    "id": "cras-17",
+    "tipo": "CRAS",
+    "nome": "CRAS Nelza Felipe Pereira",
+    "cas": 4,
+    "cas_nome": "4ª CAS – Bonsucesso",
+    "endereco": "R. Gen. Oscilio Maia, 29 - Jardim América",
+    "referencia": "Campo do Veras",
+    "email": "crasnelzafelipe.smas@prefeitura.rio",
+    "abrangencia": "Jardim América, Parada de Lucas e Vigário Geral",
+    "bairro": "Jardim América",
+    "precisao": "média",
+    "metodo": "posição pelo CEP, com precisão de quarteirão",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "informado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.19996,
+     -22.79997
+    ]
+   },
+   "properties": {
+    "id": "cras-18",
+    "tipo": "CRAS",
+    "nome": "CRAS Professor Darcy Ribeiro",
+    "cas": 4,
+    "cas_nome": "4ª CAS – Bonsucesso",
+    "endereco": "Estr. Gov. Chagas Freitas, 1900 - Portuguesa",
+    "referencia": "",
+    "email": "craspdcr.smas@prefeitura.rio",
+    "abrangencia": "Bancários, Cacuia, Cidade Universitária, Cocotá, Freguesia, Galeão, Jardim Carioca, Jardim Guanabara, Moneró, Portuguesa, Pitangueiras, Praia da Bandeira, Ribeira, Tauá (Dendê, Praia da Rosa, Querosene, Servidores e Sapucaia) e Zumbi",
+    "bairro": "Portuguesa",
+    "precisao": "média",
+    "metodo": "posição pelo CEP, com precisão de quarteirão",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "informado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.26613,
+     -22.84108
+    ]
+   },
+   "properties": {
+    "id": "cras-19",
+    "tipo": "CRAS",
+    "nome": "CRAS Carlos Drummond de Andrade",
+    "cas": 4,
+    "cas_nome": "4ª CAS – Bonsucesso",
+    "endereco": "R. Lucena - Olaria",
+    "referencia": "",
+    "email": "crascda.smas@prefeitura.rio",
+    "abrangencia": "Olaria, Penha e Ramos (parte)",
+    "bairro": "Penha",
+    "precisao": "média",
+    "metodo": "posição pelo CEP, com precisão de quarteirão",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "informado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.29043,
+     -22.83788
+    ]
+   },
+   "properties": {
+    "id": "cras-20",
+    "tipo": "CRAS",
+    "nome": "CRAS João Fassarela",
+    "cas": 4,
+    "cas_nome": "4ª CAS – Bonsucesso",
+    "endereco": "Parque Ary Barroso - Av. Brás de Pina - Penha Circular",
+    "referencia": "UPA da Penha",
+    "email": "crasjoaofassarela.smas@prefeitura.rio",
+    "abrangencia": "Brás de Pina, Cordovil (Cidade Alta) e Penha Circular",
+    "bairro": "Penha",
+    "precisao": "média",
+    "metodo": "posição pelo CEP, com precisão de quarteirão",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "informado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.26754,
+     -22.858049
+    ]
+   },
+   "properties": {
+    "id": "cras-21",
+    "tipo": "CRAS",
+    "nome": "CRAS Ramos",
+    "cas": 4,
+    "cas_nome": "4ª CAS – Bonsucesso",
+    "endereco": "Estr. de Itararé, 222 - Ramos",
+    "referencia": "",
+    "email": "crasramos.smas@prefeitura.rio",
+    "abrangencia": "Complexo do Alemão, Bonsucesso (parte), Manguinhos e Ramos (parte)",
+    "bairro": "Ramos",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.37292,
+     -22.84259
+    ]
+   },
+   "properties": {
+    "id": "cras-22",
+    "tipo": "CRAS",
+    "nome": "CRAS Yara Amaral",
+    "cas": 5,
+    "cas_nome": "5ª CAS – Madureira",
+    "endereco": "Av. Brasil, 22155 - Guadalupe",
+    "referencia": "",
+    "email": "crasiaraamaral.smas@prefeitura.rio",
+    "abrangencia": "Guadalupe, Marechal Hermes, Parque Anchieta e Ricardo de Albuquerque",
+    "bairro": "Guadalupe",
+    "precisao": "média",
+    "metodo": "posição pelo CEP, com precisão de quarteirão",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "informado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.3472,
+     -22.84083
+    ]
+   },
+   "properties": {
+    "id": "cras-23",
+    "tipo": "CRAS",
+    "nome": "CRAS José Carlos Campos",
+    "cas": 5,
+    "cas_nome": "5ª CAS – Madureira",
+    "endereco": "R. Guarama, s/nº - Rocha Miranda",
+    "referencia": "Rua da 40ª DP",
+    "email": "crasjcc.smas@prefeitura.rio",
+    "abrangencia": "Bento Ribeiro, Coelho Neto, Honório Gurgel, Oswaldo Cruz, Rocha Miranda e Turiaçu",
+    "bairro": "Rocha Miranda",
+    "precisao": "alta",
+    "metodo": "coordenada conferida pelo autor",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "confirmado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.334634,
+     -22.867849
+    ]
+   },
+   "properties": {
+    "id": "cras-24",
+    "tipo": "CRAS",
+    "nome": "CRAS Zózimo Barroso do Amaral",
+    "cas": 5,
+    "cas_nome": "5ª CAS – Madureira",
+    "endereco": "Av. Min. Edgard Romero, 400 - Madureira",
+    "referencia": "Instituto de Educação Carmela Dutra",
+    "email": "craszozimobarroso.smas@prefeitura.rio",
+    "abrangencia": "Campinho, Cascadura, Cavalcanti, Engenheiro Leal, Madureira, Quintino Bocaiúva e Vaz Lobo",
+    "bairro": "Madureira",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.319875,
+     -22.839884
+    ]
+   },
+   "properties": {
+    "id": "cras-25",
+    "tipo": "CRAS",
+    "nome": "CRAS Rubens Corrêa",
+    "cas": 6,
+    "cas_nome": "6ª CAS – Irajá",
+    "endereco": "R. Cap. Aliatar Martins, 211 - Irajá",
+    "referencia": "Praça Dalva de Oliveira",
+    "email": "crasrubenscorrea.smas@prefeitura.rio",
+    "abrangencia": "Colégio, Irajá, Vicente de Carvalho, Vila da Penha, Vila Kosmos e Vista Alegre",
+    "bairro": "Irajá",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.3609,
+     -22.806045
+    ]
+   },
+   "properties": {
+    "id": "cras-26",
+    "tipo": "CRAS",
+    "nome": "CRAS Francisco Sales de Mesquita",
+    "cas": 6,
+    "cas_nome": "6ª CAS – Irajá",
+    "endereco": "R. Mercúrio, 430 - Pavuna",
+    "referencia": "Próximo ao Colégio Mercúrio",
+    "email": "crasfranciscosales.smas@prefeitura.rio",
+    "abrangencia": "Anchieta (parte), Costa Barros e Pavuna",
+    "bairro": "Pavuna",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.347064,
+     -22.824319
+    ]
+   },
+   "properties": {
+    "id": "cras-27",
+    "tipo": "CRAS",
+    "nome": "CRAS Acari",
+    "cas": 6,
+    "cas_nome": "6ª CAS – Irajá",
+    "endereco": "R. Guaiuba, 150 - Acari",
+    "referencia": "Próximo ao Hospital Ronaldo Gazolla",
+    "email": "crasacari.smas@prefeitura.rio",
+    "abrangencia": "Acari, Barros Filho e Parque Colúmbia",
+    "bairro": "Acari",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.33735,
+     -22.952945
+    ]
+   },
+   "properties": {
+    "id": "cras-28",
+    "tipo": "CRAS",
+    "nome": "CRAS Marcio Brotto",
+    "cas": 7,
+    "cas_nome": "7ª CAS – Jacarepaguá",
+    "endereco": "R. Gen. José Eulálio, 142 - Anil",
+    "referencia": "",
+    "email": "crasmarciobrotto.smas@prefeitura.rio",
+    "abrangencia": "Anil, Barra da Tijuca (parte – da Barrinha às proximidades do Shopping Città America), Gardênia Azul, Itanhangá e Joá",
+    "bairro": "Anil",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.35928,
+     -22.9499
+    ]
+   },
+   "properties": {
+    "id": "cras-29",
+    "tipo": "CRAS",
+    "nome": "CRAS Elis Regina",
+    "cas": 7,
+    "cas_nome": "7ª CAS – Jacarepaguá",
+    "endereco": "Av. Edgard Werneck, 1565 - Cidade de Deus",
+    "referencia": "CIEP João Batista",
+    "email": "craselisregina.smas@prefeitura.rio",
+    "abrangencia": "Barra da Tijuca (parte – Av. Ayrton Senna até o Terminal Alvorada) e Cidade de Deus",
+    "bairro": "Cidade de Deus",
+    "precisao": "alta",
+    "metodo": "coordenada conferida pelo autor",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "confirmado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.35182,
+     -22.89806
+    ]
+   },
+   "properties": {
+    "id": "cras-30",
+    "tipo": "CRAS",
+    "nome": "CRAS Gonzaguinha",
+    "cas": 7,
+    "cas_nome": "7ª CAS – Jacarepaguá",
+    "endereco": "Praça Barão da Taquara, 9 - Praça Seca",
+    "referencia": "16ª Região Administrativa, entre o Country Club da Praça Seca e a Caixa Econômica Federal",
+    "email": "crasgonzaguinha.smas@prefeitura.rio",
+    "abrangencia": "Freguesia, Pechincha, Praça Seca, Tanque e Vila Valqueire",
+    "bairro": "Praça Seca",
+    "precisao": "alta",
+    "metodo": "coordenada conferida pelo autor",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "confirmado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.43241,
+     -22.992161
+    ]
+   },
+   "properties": {
+    "id": "cras-31",
+    "tipo": "CRAS",
+    "nome": "CRAS Zumbi dos Palmares",
+    "cas": 7,
+    "cas_nome": "7ª CAS – Jacarepaguá",
+    "endereco": "Estr. dos Bandeirantes, 11.227 - Jacarepaguá",
+    "referencia": "Comunidade César Maia",
+    "email": "craszumbidospalmares.smas@prefeitura.rio",
+    "abrangencia": "Camorim, Curicica, Grumari, Recreio, Rio Centro, Vargem Grande e Vargem Pequena",
+    "bairro": "Vargem Pequena",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.397961,
+     -22.937056
+    ]
+   },
+   "properties": {
+    "id": "cras-32",
+    "tipo": "CRAS",
+    "nome": "CRAS Machado de Assis",
+    "cas": 7,
+    "cas_nome": "7ª CAS – Jacarepaguá",
+    "endereco": "R. Nucleo Rodrigues Caldas, 804 - Jacarepaguá",
+    "referencia": "Colônia Juliano Moreira",
+    "email": "crasmachadodeassis.smas@prefeitura.rio",
+    "abrangencia": "Colônia, Curicica (parte), Jordão e Taquara",
+    "bairro": "Jacarepaguá",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.46756,
+     -22.88306
+    ]
+   },
+   "properties": {
+    "id": "cras-33",
+    "tipo": "CRAS",
+    "nome": "CRAS Deputada Heloneida Studart",
+    "cas": 8,
+    "cas_nome": "8ª CAS – Bangu",
+    "endereco": "R. Rangel Pestana, 510 - Bangu",
+    "referencia": "Próximo à Rua Rio da Prata",
+    "email": "crasdheloneida.smas@prefeitura.rio",
+    "abrangencia": "Bangu, Senador Camará, Santíssimo (parte)",
+    "bairro": "Bangu",
+    "precisao": "média",
+    "metodo": "posição pelo CEP, com precisão de quarteirão",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "informado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.463431,
+     -22.884283
+    ]
+   },
+   "properties": {
+    "id": "cras-34",
+    "tipo": "CRAS",
+    "nome": "CRAS Maria Thereza Freire Moura",
+    "cas": 8,
+    "cas_nome": "8ª CAS – Bangu",
+    "endereco": "R. Silva Cardoso, 967 - Bangu",
+    "referencia": "Próximo ao Hospital São Matheus",
+    "email": "crasmariaterezafm.smas@prefeitura.rio",
+    "abrangencia": "Bangu (parte), Padre Miguel e Realengo",
+    "bairro": "Bangu",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.464774,
+     -22.872556
+    ]
+   },
+   "properties": {
+    "id": "cras-35",
+    "tipo": "CRAS",
+    "nome": "CRAS Vila Moretti",
+    "cas": 8,
+    "cas_nome": "8ª CAS – Bangu",
+    "endereco": "Av. Min. Ary Franco, 278 - Bangu",
+    "referencia": "",
+    "email": "crasvilamoretti.smas@prefeitura.rio",
+    "abrangencia": "Bangu (parte), Padre Miguel (parte) e Senador Camará (parte)",
+    "bairro": "Bangu",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.428747,
+     -22.883924
+    ]
+   },
+   "properties": {
+    "id": "cras-36",
+    "tipo": "CRAS",
+    "nome": "CRAS Oswaldo Antonio Ferreira",
+    "cas": 8,
+    "cas_nome": "8ª CAS – Bangu",
+    "endereco": "R. Dona Olímpia, 220 - Realengo",
+    "referencia": "Próximo ao GET Carlos Maui",
+    "email": "crasoswaldoantoniof.smas@prefeitura.rio",
+    "abrangencia": "Deodoro, Magalhães Bastos, Realengo (parte), Sulacap e Vila Militar",
+    "bairro": "Realengo",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.465778,
+     -22.881023
+    ]
+   },
+   "properties": {
+    "id": "cras-37",
+    "tipo": "CRAS",
+    "nome": "CRAS Olímpia Esteves",
+    "cas": 8,
+    "cas_nome": "8ª CAS – Bangu",
+    "endereco": "R. Santa Cecília, 984 - Bangu",
+    "referencia": "Próximo à Paróquia São Sebastião e Santa Cecília",
+    "email": "crasolimpiaesteves.smas@prefeitura.rio",
+    "abrangencia": "Bangu, Batan, Realengo e Vila Kennedy",
+    "bairro": "Bangu",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.56163,
+     -22.8914
+    ]
+   },
+   "properties": {
+    "id": "cras-38",
+    "tipo": "CRAS",
+    "nome": "CRAS Aluno Marcelo Cardoso Tomé",
+    "cas": 9,
+    "cas_nome": "9ª CAS – Campo Grande",
+    "endereco": "R. do Rádio, s/nº - Campo Grande",
+    "referencia": "",
+    "email": "crasalunomarcelo.smas@prefeitura.rio",
+    "abrangencia": "Campo Grande, Santíssimo (parte) e Senador Vasconcelos (parte)",
+    "bairro": "Campo Grande",
+    "precisao": "alta",
+    "metodo": "coordenada conferida pelo autor",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "confirmado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.58356,
+     -22.90643
+    ]
+   },
+   "properties": {
+    "id": "cras-39",
+    "tipo": "CRAS",
+    "nome": "CRAS Luisa Mahim",
+    "cas": 9,
+    "cas_nome": "9ª CAS – Campo Grande",
+    "endereco": "R. Campo Grande, 3058 - Inhoaíba",
+    "referencia": "Próximo ao GET Medalhista Olímpico Diego Hypólito",
+    "email": "crasluizamahim.smas@prefeitura.rio",
+    "abrangencia": "Cosmos e Inhoaíba",
+    "bairro": "Inhoaíba",
+    "precisao": "média",
+    "metodo": "posição pelo CEP, com precisão de quarteirão",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "informado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.552363,
+     -22.901865
+    ]
+   },
+   "properties": {
+    "id": "cras-40",
+    "tipo": "CRAS",
+    "nome": "CRAS Cecília Meireles",
+    "cas": 9,
+    "cas_nome": "9ª CAS – Campo Grande",
+    "endereco": "R. Viúva Dantas, 695 - Campo Grande",
+    "referencia": "",
+    "email": "crasceciliameireles.smas@prefeitura.rio",
+    "abrangencia": "Campo Grande, Santíssimo e Senador Vasconcelos (parte)",
+    "bairro": "Campo Grande",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.707104,
+     -22.963138
+    ]
+   },
+   "properties": {
+    "id": "cras-41",
+    "tipo": "CRAS",
+    "nome": "CRAS Betty Friedman",
+    "cas": 10,
+    "cas_nome": "10ª CAS – Santa Cruz",
+    "endereco": "R. Prainha, 57 - Sepetiba",
+    "referencia": "Próximo ao GET Professor Carmo Reis",
+    "email": "crasbettyfriedan.smas@prefeitura.rio",
+    "abrangencia": "Alagado, Balneário Globo, Beco da Guarda, Beco do Constâncio, Mata Sete, Nova Sepetiba, Piai, Ponta do Ipiranga, Praia da Brisa, Praia de Sepetiba, Praia do Cardo, Praia do Recôncavo, Tijolinho, Vila Fernanda e Sepetiba",
+    "bairro": "Sepetiba",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.638493,
+     -22.918647
+    ]
+   },
+   "properties": {
+    "id": "cras-42",
+    "tipo": "CRAS",
+    "nome": "CRAS Professora Helenice Nunes Jacintho",
+    "cas": 10,
+    "cas_nome": "10ª CAS – Santa Cruz",
+    "endereco": "R. Pres. JK - Paciência",
+    "referencia": "Estação BRT 31 de Outubro",
+    "email": "crashelenicenunesj.smas@prefeitura.rio",
+    "abrangencia": "Paciência",
+    "bairro": "Paciência",
+    "precisao": "alta",
+    "metodo": "coordenada conferida pelo autor",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "informado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.683676,
+     -22.913003
+    ]
+   },
+   "properties": {
+    "id": "cras-43",
+    "tipo": "CRAS",
+    "nome": "CRAS Maria Clara Machado",
+    "cas": 10,
+    "cas_nome": "10ª CAS – Santa Cruz",
+    "endereco": "R. Gabriel Bernardes, s/n° - Santa Cruz",
+    "referencia": "",
+    "email": "crasmariaclaramachado.smas@prefeitura.rio",
+    "abrangencia": "Santa Cruz",
+    "bairro": "Santa Cruz",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.653203,
+     -22.913632
+    ]
+   },
+   "properties": {
+    "id": "cras-44",
+    "tipo": "CRAS",
+    "nome": "CRAS Iacyra Frazão Sousa",
+    "cas": 10,
+    "cas_nome": "10ª CAS – Santa Cruz",
+    "endereco": "R. Eremias Delizoicov, s/nº (Estr. de Urucânia) - Paciência",
+    "referencia": "",
+    "email": "crasiacyrafrazao.smas@prefeitura.rio",
+    "abrangencia": "Coqueiral, Mangaratiba e Urucânia",
+    "bairro": "Paciência",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.592438,
+     -22.992558
+    ]
+   },
+   "properties": {
+    "id": "cras-45",
+    "tipo": "CRAS",
+    "nome": "CRAS Maria Vieira Bazani",
+    "cas": 10,
+    "cas_nome": "10ª CAS – Santa Cruz",
+    "endereco": "Estr. do Mato Alto, 5620 - Guaratiba",
+    "referencia": "Fazenda Modelo, próximo à Estação BRT Mato Alto",
+    "email": "crasmariavieirabazani.smas@prefeitura.rio",
+    "abrangencia": "Barra de Guaratiba, Guaratiba, Ilha de Guaratiba, Jardim Maravilha e Pedra de Guaratiba",
+    "bairro": "Guaratiba",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.687431,
+     -22.928175
+    ]
+   },
+   "properties": {
+    "id": "cras-46",
+    "tipo": "CRAS",
+    "nome": "CRAS Jorge Gonçalves",
+    "cas": 10,
+    "cas_nome": "10ª CAS – Santa Cruz",
+    "endereco": "R. Primeira, 61 - Santa Cruz",
+    "referencia": "",
+    "email": "crasjorgegoncalves.smas@prefeitura.rio",
+    "abrangencia": "Antares, Areia Branca, Cesarão I, II e III, Cruz das Almas, Jaqueira, Largo do Arão, Matadouro, Novo Camarão, Nova Palestina, Pedrinhas, São Benedito, Santa Cruz (centro), Santa Veridiana, Vitor Dumas e Rolas I e II",
+    "bairro": "Santa Cruz",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/cras/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.185858,
+     -22.906355
+    ]
+   },
+   "properties": {
+    "id": "creas-0",
+    "tipo": "CREAS",
+    "nome": "CREAS Simone de Beauvoir",
+    "cas": 1,
+    "cas_nome": "1ª CAS – Centro",
+    "endereco": "R. República do Líbano, 54 - Centro",
+    "referencia": "Próximo ao Campo de Santana",
+    "email": "creassimonedebeauvoir@prefeitura.rio",
+    "abrangencia": "Benfica, Caju, Catumbi, Centro, Cidade Nova, Estácio, Gamboa, Lapa, Mangueira, Paquetá, Rio Comprido, Santa Teresa, Santo Cristo, São Cristóvão, Saúde, Vasco da Gama",
+    "bairro": "Centro",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.233285,
+     -22.926809
+    ]
+   },
+   "properties": {
+    "id": "creas-1",
+    "tipo": "CREAS",
+    "nome": "CREAS Arlindo Rodrigues",
+    "cas": 2,
+    "cas_nome": "2ª CAS – Vila Isabel, Grande Tijuca e Zona Sul",
+    "endereco": "R. Des. Isidro, 48, fundos - Tijuca",
+    "referencia": "",
+    "email": "creasarlindorodrigues@prefeitura.rio",
+    "abrangencia": "Alto da Boa Vista, Andaraí, Grajaú, Maracanã, Praça da Bandeira, Tijuca e Vila Isabel",
+    "bairro": "Tijuca",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.179489,
+     -22.933708
+    ]
+   },
+   "properties": {
+    "id": "creas-2",
+    "tipo": "CREAS",
+    "nome": "CREAS Maria Lina de Castro Lima",
+    "cas": 2,
+    "cas_nome": "2ª CAS – Vila Isabel, Grande Tijuca e Zona Sul",
+    "endereco": "R. São Salvador, 56 - Flamengo",
+    "referencia": "",
+    "email": "creasmarialina@prefeitura.rio",
+    "abrangencia": "Botafogo, Catete, Copacabana, Cosme Velho, Flamengo, Gávea, Glória, Horto, Humaitá, Ipanema, Jardim Botânico, Lagoa, Laranjeiras, Leblon, Leme, Rocinha, São Conrado, Urca e Vidigal",
+    "bairro": "Laranjeiras",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.28971,
+     -22.90388
+    ]
+   },
+   "properties": {
+    "id": "creas-3",
+    "tipo": "CREAS",
+    "nome": "CREAS Janete Clair",
+    "cas": 3,
+    "cas_nome": "3ª CAS – Engenho Novo",
+    "endereco": "R. Piranga, 50 - Méier",
+    "referencia": "Caixa Econômica da Rua Dias da Cruz",
+    "email": "creasjaneteclair@prefeitura.rio",
+    "abrangencia": "Abolição, Água Santa, Cachambi, Del Castilho, Encantado, Engenho da Rainha, Engenho de Dentro, Engenho Novo, Higienópolis, Inhaúma (parte), Jacaré, Jacarezinho, Lins de Vasconcelos, Maria da Graça, Méier, Piedade, Pilares, Riachuelo, Rocha, Sampaio, São Francisco Xavier, Todos os Santos e Tomás Coelho (parte)",
+    "bairro": "Méier",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.231372,
+     -22.815327
+    ]
+   },
+   "properties": {
+    "id": "creas-4",
+    "tipo": "CREAS",
+    "nome": "CREAS Stella Maris",
+    "cas": 4,
+    "cas_nome": "4ª CAS – Bonsucesso",
+    "endereco": "Estr. de Maracajás, 973 - Galeão",
+    "referencia": "Entre a Creche Stella Maris e a CRAF Tom Jobim",
+    "email": "creasstellamaris@prefeitura.rio",
+    "abrangencia": "Ilha do Governador, Cidade Universitária e Maré",
+    "bairro": "Galeão",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.260953,
+     -22.855364
+    ]
+   },
+   "properties": {
+    "id": "creas-5",
+    "tipo": "CREAS",
+    "nome": "CREAS Nelson Carneiro",
+    "cas": 4,
+    "cas_nome": "4ª CAS – Bonsucesso",
+    "endereco": "R. Professor Lacé, 57 - Ramos",
+    "referencia": "Próximo à estação Supervia Ramos",
+    "email": "creasnelsoncarneiro@prefeitura.rio",
+    "abrangencia": "Bonsucesso, Brás de Pina, Complexo do Alemão, Cordovil, Jardim América, Manguinhos, Olaria, Parada de Lucas, Pavuna (parte), Penha, Penha Circular, Ramos, Vigário Geral e Vila da Penha (parte)",
+    "bairro": "Ramos",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.335892,
+     -22.875236
+    ]
+   },
+   "properties": {
+    "id": "creas-6",
+    "tipo": "CREAS",
+    "nome": "CREAS Professora Márcia Lopes",
+    "cas": 5,
+    "cas_nome": "5ª CAS – Madureira",
+    "endereco": "R. Carvalho de Souza, 274 - Madureira",
+    "referencia": "Ao lado das Casas Bahia",
+    "email": "creasprofmarcialopes@prefeitura.rio",
+    "abrangencia": "Bento Ribeiro, Campinho, Cavalcanti, Cascadura, Coelho Neto, Engenheiro Leal, Guadalupe, Honório Gurgel, Madureira, Marechal Hermes, Mariópolis, Oswaldo Cruz, Parque Anchieta, Quintino Bocaiúva, Ricardo de Albuquerque, Rocha Miranda, Turiaçu e Vaz Lobo",
+    "bairro": "Madureira",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.35013,
+     -22.82665
+    ]
+   },
+   "properties": {
+    "id": "creas-7",
+    "tipo": "CREAS",
+    "nome": "CREAS João Hélio Fernandes Vieites",
+    "cas": 6,
+    "cas_nome": "6ª CAS – Irajá",
+    "endereco": "R. Ouseley, 421 - Coelho Neto",
+    "referencia": "Ao lado do PAM Coelho Neto",
+    "email": "creasjoaohelio@prefeitura.rio",
+    "abrangencia": "Acari, Anchieta, Barros Filho, Costa Barros, Parque Colúmbia e Pavuna",
+    "bairro": "Coelho Neto",
+    "precisao": "média",
+    "metodo": "posição pelo CEP, com precisão de quarteirão",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "informado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.33032,
+     -22.831732
+    ]
+   },
+   "properties": {
+    "id": "creas-8",
+    "tipo": "CREAS",
+    "nome": "CREAS Wanda Engel Aduan",
+    "cas": 6,
+    "cas_nome": "6ª CAS – Irajá",
+    "endereco": "Estr. Pedro Borges de Freitas, 144 - Irajá",
+    "referencia": "",
+    "email": "creaswandaengel@prefeitura.rio",
+    "abrangencia": "Colégio, Irajá, Vicente de Carvalho, Vila da Penha, Vila Kosmos e Vista Alegre",
+    "bairro": "Irajá",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.372736,
+     -22.929394
+    ]
+   },
+   "properties": {
+    "id": "creas-9",
+    "tipo": "CREAS",
+    "nome": "CREAS Daniela Perez",
+    "cas": 7,
+    "cas_nome": "7ª CAS – Jacarepaguá",
+    "endereco": "R. Nacional, 275 - Taquara",
+    "referencia": "Em frente ao Colégio Carlos Lacerda",
+    "email": "creasdanielaperez@prefeitura.rio",
+    "abrangencia": "Anil, Barra da Tijuca, Camorim, Cidade de Deus, Colônia, Curicica, Freguesia (Jacarepaguá), Gardênia Azul, Grumari, Itanhangá, Jacarepaguá, Joá, Pechincha, Praça Seca, Recreio dos Bandeirantes, Tanque, Taquara, Vargem Grande, Vargem Pequena, Vila Valqueire",
+    "bairro": "Taquara",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.44055,
+     -22.88142
+    ]
+   },
+   "properties": {
+    "id": "creas-10",
+    "tipo": "CREAS",
+    "nome": "CREAS Professora Aldaíza Sposati",
+    "cas": 8,
+    "cas_nome": "8ª CAS – Bangu",
+    "endereco": "R. Limites, 1349 - Realengo",
+    "referencia": "",
+    "email": "creasprofaldaizasposati@prefeitura.rio",
+    "abrangencia": "Bangu, Campo dos Afonsos, Deodoro, Gericinó, Jabour, Jardim Sulacap, Magalhães Bastos, Padre Miguel, Realengo, Santíssimo (até ETERJ), Senador Camará e Vila Militar",
+    "bairro": "Realengo",
+    "precisao": "média",
+    "metodo": "posição pelo CEP, com precisão de quarteirão",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "informado pelo autor (06/10/2026)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.56423,
+     -22.904846
+    ]
+   },
+   "properties": {
+    "id": "creas-11",
+    "tipo": "CREAS",
+    "nome": "CREAS Zilda Arns Neumann",
+    "cas": 9,
+    "cas_nome": "9ª CAS – Campo Grande",
+    "endereco": "R. Cândido Magalhães, 88 - Campo Grande",
+    "referencia": "Próximo ao Colégio Bahiense",
+    "email": "creaszildaarns@prefeitura.rio",
+    "abrangencia": "Campo Grande, Cosmos, Inhoaíba, Santíssimo e Senador Vasconcelos",
+    "bairro": "Campo Grande",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.683672,
+     -22.913091
+    ]
+   },
+   "properties": {
+    "id": "creas-12",
+    "tipo": "CREAS",
+    "nome": "CREAS Padre Guilherme Decaminada",
+    "cas": 10,
+    "cas_nome": "10ª CAS – Santa Cruz",
+    "endereco": "R. Gabriel Bernardes - Santa Cruz",
+    "referencia": "",
+    "email": "creaspadreguilherme@prefeitura.rio",
+    "abrangencia": "Santa Cruz e Sepetiba",
+    "bairro": "Santa Cruz",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.626965,
+     -22.996986
+    ]
+   },
+   "properties": {
+    "id": "creas-13",
+    "tipo": "CREAS",
+    "nome": "CREAS João Manoel Monteiro",
+    "cas": 10,
+    "cas_nome": "10ª CAS – Santa Cruz",
+    "endereco": "Estr. da Matriz, s/nº - Pedra de Guaratiba",
+    "referencia": "Administração Regional da Pedra de Guaratiba",
+    "email": "creasjoaomanoel@prefeitura.rio",
+    "abrangencia": "Barra de Guaratiba, Guaratiba, Ilha de Guaratiba, Paciência, Pedra de Guaratiba",
+    "bairro": "Pedra de Guaratiba",
+    "precisao": "alta",
+    "metodo": "coordenada conferida",
+    "fonte": "https://assistenciasocial.prefeitura.rio/creas/",
+    "fonte_endereco": "site SMAS / gpkg"
+   }
+  }
+ ]
+}
